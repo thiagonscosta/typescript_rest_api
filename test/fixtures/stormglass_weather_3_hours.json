@@ -8,7 +8,7 @@
         "noaa": 0.56
       },
       "swellPeriod": {
-        "noaa": 10.74,
+        "noaa": 10.74
       },
       "time": "2022-02-15T00:00:00+00:00",
       "waveDirection": {
@@ -18,6 +18,9 @@
         "noaa": 1.28
       },
       "windDirection": {
+        "noaa": 58.12
+      },
+      "windSpeed": {
         "noaa": 58.12
       }
     },
